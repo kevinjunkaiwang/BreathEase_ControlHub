@@ -1,5 +1,7 @@
 # BreathEase Control Hub
 
+![IMG_1100](Attachments/IMG_1100.jpg)
+
 ## Inspiration
 
 When I was a kid, my uncle was diagnosed with amyotrophic lateral sclerosis (ALS), a disease involving muscle weakness and atrophy caused by neuronal damage. ALS has had a devastating impact on him and his family. Since then, I have always hoped to assist patients with ALS by building medical devices.
